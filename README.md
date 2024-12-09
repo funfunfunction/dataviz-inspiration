@@ -53,4 +53,15 @@ The [Visual and Data Journalism](https://www.ft.com/visual-and-data-journalism) 
 
 The *Financial Times*’ data journalism is celebrated for combining precision with accessibility, offering readers both the depth of analysis and the visual tools needed to explore key global issues. Whether you're a data enthusiast or a casual reader, it’s an invaluable resource for understanding the world through data.
 
+### [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/)
+
+The [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/) have been celebrating excellence and beauty in data visualization, infographics, interactives, and information art since 2012. Presented by the [Data Visualization Society](https://www.datavisualizationsociety.org/), the awards recognize outstanding work from creators across various domains, including rising stars, students, individual practitioners, established studios, media brands, and NGOs.
+
+#### Notable Highlights:
+- **Diverse Categories**: The awards feature multiple categories such as People, Language & Identity; Places, Spaces & Environment; Science, Technology & Health; and more, showcasing a wide array of topics and styles.
+- **Special Awards**: In addition to category winners, special awards are given for exceptional achievements, including the Community Vote, which allows the public to participate in the selection process.
+- **Global Participation**: The 2023 awards received a record-breaking 900 submissions from over 50 countries, highlighting the diversity and creativity within the data visualization community. [Source](https://www.informationisbeautifulawards.com/news/636-information-is-beautiful-awards-2023-the-winners)
+
+The Information is Beautiful Awards serve as a beacon of data visualization excellence, providing a central, searchable showcase of outstanding work. This resource is invaluable for data visualization enthusiasts, students, and newcomers seeking inspiration and ideas. The awards have significantly contributed to advancing the field by celebrating and promoting high-quality visual storytelling.
+
 
