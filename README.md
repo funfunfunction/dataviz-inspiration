@@ -64,4 +64,20 @@ The [Information is Beautiful Awards](https://www.informationisbeautifulawards.c
 
 The Information is Beautiful Awards serve as a beacon of data visualization excellence, providing a central, searchable showcase of outstanding work. This resource is invaluable for data visualization enthusiasts, students, and newcomers seeking inspiration and ideas. The awards have significantly contributed to advancing the field by celebrating and promoting high-quality visual storytelling.
 
+### [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful)
+
+[r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful) is a popular subreddit dedicated to showcasing visually engaging and informative data visualizations. With over 20 million members, it serves as a vibrant community for creators and enthusiasts to share, discuss, and critique data-driven storytelling.
+
+#### What Makes It Stand Out:
+- **User-Generated Content**: Submissions range from beginner to expert-level visualizations, covering topics like science, politics, pop culture, and personal projects.
+- **Constructive Feedback**: Members frequently provide detailed critiques and suggestions, making it an excellent resource for learning and improving your visualization skills.
+- **Top Posts and Trends**: High-ranking posts often go viral, featuring innovative approaches to data storytelling. Examples include visualizations of global climate trends, pop culture statistics, and real-time data tracking.
+
+#### Notable Examples:
+- **[The Most Popular Dog Breeds by U.S. State](https://www.reddit.com/r/dataisbeautiful/comments/qqfng8/oc_the_most_popular_dog_breeds_by_us_state/)**: A visualization combining geographic data with cultural insights.
+- **[Visualizing Time Spent in Traffic Globally](https://www.reddit.com/r/dataisbeautiful/comments/u0bhzp/oc_time_spent_in_traffic_worldwide/)**: An eye-opening interactive showing how much time people lose to commuting in various cities.
+- **[CO2 Emissions Over Time](https://www.reddit.com/r/dataisbeautiful/comments/tuk9yf/oc_carbon_emissions_in_the_last_200_years/)**: A stunning yet sobering look at humanity’s environmental footprint.
+
+As an ever-evolving hub of creativity and insight, r/dataisbeautiful is a must-visit destination for inspiration and engagement in the world of data visualization. It’s perfect for discovering trending topics, experimenting with new ideas, or connecting with like-minded individuals passionate about data storytelling.
+
 
