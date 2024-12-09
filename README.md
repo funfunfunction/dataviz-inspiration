@@ -31,7 +31,7 @@ In essence, FlowingData serves as a comprehensive resource for those interested 
 
 ### [FiveThirtyEight](https://fivethirtyeight.com)
 
-[FiveThirtyEight](https://fivethirtyeight.com), founded by Nate Silver in 2008, is a leading platform for data-driven reporting, covering politics, sports, economics, science, and culture. Known for its statistical rigor and engaging storytelling, FiveThirtyEight leverages interactive and elegant visualizations to make complex data approachable.
+[FiveThirtyEight](https://fivethirtyeight.com), founded by [Nate Silver](https://en.wikipedia.org/wiki/Nate_Silver) in 2008, is a leading platform for data-driven reporting, covering politics, sports, economics, science, and culture. Known for its statistical rigor and engaging storytelling, FiveThirtyEight leverages interactive and elegant visualizations to make complex data approachable.
 
 #### Notable Examples:
 - **Election Forecast Models**: Famous for its [*real-time probabilistic predictions during U.S. elections*](https://projects.fivethirtyeight.com/polls/), featuring interactive maps and the well-known election needle.
