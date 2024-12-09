@@ -8,6 +8,18 @@ For instance, their project [How Bad Is Your Streaming Music?](https://pudding.c
 
 The Pudding’s distinctive approach combines journalism, data analysis, and design to create thought-provoking stories that are both informative and visually captivating.
 
+### [FiveThirtyEight](https://fivethirtyeight.com)
+
+[FiveThirtyEight](https://fivethirtyeight.com), founded by [Nate Silver](https://en.wikipedia.org/wiki/Nate_Silver) in 2008, is a leading platform for data-driven reporting, covering politics, sports, economics, science, and culture. Known for its statistical rigor and engaging storytelling, FiveThirtyEight leverages interactive and elegant visualizations to make complex data approachable.
+
+#### Notable Examples:
+- **Election Forecast Models**: Famous for its [*real-time probabilistic predictions during U.S. elections*](https://projects.fivethirtyeight.com/polls/), featuring interactive maps and the well-known election needle.
+- **Sports Analytics**: Projects like [*NBA Player Projections*](https://projects.fivethirtyeight.com/2023-nba-player-projections/) and *March Madness Forecasts* provide deep insights into player performance and tournament outcomes.
+- **Cultural Data Stories**: Fun explorations such as [*The Best Halloween Candy*](https://projects.fivethirtyeight.com/candy-ranking/) ranking showcase how data can be used to analyze everyday phenomena.
+- **Science and Environment**: Articles like [*What Science Says about Climate Change*](https://fivethirtyeight.com/features/what-science-says-about-climate-change/) combine statistical insights with visual storytelling to make science accessible.
+
+FiveThirtyEight epitomizes the fusion of data visualization and journalism, presenting data in a way that informs and captivates. Whether you're exploring election forecasts or cultural trends, it's an essential resource for anyone interested in the art of using data to tell stories.
+
 ### [TheUpshot](https://www.nytimes.com/international/section/upshot)
 Launched in April 2014, The Upshot is a specialized section that blends data visualization with traditional journalism to provide in-depth analyses of current events and policy issues. It was established shortly after Nate Silver’s departure and the migration of FiveThirtyEight from the Times, aiming to fill the void left by his data-driven approach. ￼
 
@@ -29,14 +41,4 @@ For instance, FlowingData has delved into the [evolution of the love song](https
 
 In essence, FlowingData serves as a comprehensive resource for those interested in the art and science of data visualization, offering practical guidance and inspiration for effectively communicating data-driven insights.
 
-### [FiveThirtyEight](https://fivethirtyeight.com)
 
-[FiveThirtyEight](https://fivethirtyeight.com), founded by [Nate Silver](https://en.wikipedia.org/wiki/Nate_Silver) in 2008, is a leading platform for data-driven reporting, covering politics, sports, economics, science, and culture. Known for its statistical rigor and engaging storytelling, FiveThirtyEight leverages interactive and elegant visualizations to make complex data approachable.
-
-#### Notable Examples:
-- **Election Forecast Models**: Famous for its [*real-time probabilistic predictions during U.S. elections*](https://projects.fivethirtyeight.com/polls/), featuring interactive maps and the well-known election needle.
-- **Sports Analytics**: Projects like [*NBA Player Projections*](https://projects.fivethirtyeight.com/2023-nba-player-projections/) and *March Madness Forecasts* provide deep insights into player performance and tournament outcomes.
-- **Cultural Data Stories**: Fun explorations such as [*The Best Halloween Candy*](https://projects.fivethirtyeight.com/candy-ranking/) ranking showcase how data can be used to analyze everyday phenomena.
-- **Science and Environment**: Articles like [*What Science Says about Climate Change*](https://fivethirtyeight.com/features/what-science-says-about-climate-change/) combine statistical insights with visual storytelling to make science accessible.
-
-FiveThirtyEight epitomizes the fusion of data visualization and journalism, presenting data in a way that informs and captivates. Whether you're exploring election forecasts or cultural trends, it's an essential resource for anyone interested in the art of using data to tell stories.
