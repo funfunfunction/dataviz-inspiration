@@ -20,12 +20,13 @@ The Pudding’s distinctive approach combines journalism, data analysis, and des
 
 FiveThirtyEight epitomizes the fusion of data visualization and journalism, presenting data in a way that informs and captivates. Whether you're exploring election forecasts or cultural trends, it's an essential resource for anyone interested in the art of using data to tell stories.
 
-### [TheUpshot](https://www.nytimes.com/international/section/upshot)
-Launched in April 2014, The Upshot is a specialized section that blends data visualization with traditional journalism to provide in-depth analyses of current events and policy issues. It was established shortly after Nate Silver’s departure and the migration of FiveThirtyEight from the Times, aiming to fill the void left by his data-driven approach. ￼
+### [The Upshot](https://www.nytimes.com/international/section/upshot)
 
-Under the leadership of founding editor David Leonhardt, The Upshot has become known for its innovative storytelling techniques, utilizing interactive graphics and comprehensive data analysis to offer readers a clearer understanding of complex topics. For example, during election cycles, The Upshot provides real-time forecasts and visualizations, such as the well-known election needle, to convey the dynamics of electoral outcomes. ￼
+Launched in April 2014, [The Upshot](https://www.nytimes.com/section/upshot) is a specialized section of *The New York Times* that blends data visualization with traditional journalism to provide in-depth analyses of current events and policy issues. It was established shortly after Nate Silver’s departure and the migration of [FiveThirtyEight](https://fivethirtyeight.com) from the Times, aiming to fill the void left by his data-driven approach.
 
-In essence, The Upshot serves as a platform where data journalism meets narrative storytelling, enhancing readers’ comprehension of intricate subjects through engaging and informative content.
+Under the leadership of founding editor [David Leonhardt](https://www.nytimes.com/column/david-leonhardt), *The Upshot* has become known for its innovative storytelling techniques, utilizing interactive graphics and comprehensive data analysis to offer readers a clearer understanding of complex topics. For example, during election cycles, *The Upshot* provides [real-time forecasts and visualizations](https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html), such as the well-known election needle, to convey the dynamics of electoral outcomes.
+
+In essence, *The Upshot* serves as a platform where data journalism meets narrative storytelling, enhancing readers’ comprehension of intricate subjects through engaging and informative content.
 
 ### [Reuters Graphics](https://www.reuters.com/graphics/)
 Reuters Graphics is the visual storytelling arm of Reuters, the global news organization. This team specializes in creating interactive data visualizations, infographics, and multimedia content that elucidate complex news stories across various domains, including politics, business, science, and the environment. Their work transforms intricate data sets into accessible and engaging narratives, enhancing readers’ comprehension of multifaceted issues.
