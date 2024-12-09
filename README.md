@@ -4,7 +4,7 @@ A compiled list of data visualizations, curated by MPJ and the FFF community
 ### [The Pudding](https://pudding.cool)
 Pudding.cool, known as The Pudding, is a digital publication that elucidates cultural debates through engaging visual essays. Their work spans a variety of topics, including music, sports, and societal trends, all presented with innovative data visualizations. ￼
 
-For instance, their project “How Bad Is Your Streaming Music?” employs a satirical AI to humorously critique users’ music tastes based on their streaming habits. ￼ Another example is “Human Terrain,” which visualizes global population distributions in 3D, offering insights into urban growth over the past three decades. ￼
+For instance, their project [How Bad Is Your Streaming Music?](https://pudding.cool/2021/10/judge-my-music/) employs a satirical AI to humorously critique users’ music tastes based on their streaming habits. ￼ Another example is [Human Terrain](https://pudding.cool/2018/10/city_3d/), which visualizes global population distributions in 3D, offering insights into urban growth over the past three decades. In addition, the [interactive visualization of every line in Hamilton](https://pudding.cool/2017/03/hamilton/) is how I initially found out about [Shirley Wu](https://shirleywu.studio), dataviz artist extraordinaire.
 
 The Pudding’s distinctive approach combines journalism, data analysis, and design to create thought-provoking stories that are both informative and visually captivating.
 
