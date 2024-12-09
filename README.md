@@ -42,4 +42,15 @@ For instance, FlowingData has delved into the [evolution of the love song](https
 
 In essence, FlowingData serves as a comprehensive resource for those interested in the art and science of data visualization, offering practical guidance and inspiration for effectively communicating data-driven insights.
 
+### [Financial Times: Visual and Data Journalism](https://www.ft.com/visual-and-data-journalism)
+
+The [Visual and Data Journalism](https://www.ft.com/visual-and-data-journalism) team at the *Financial Times* specializes in creating impactful, data-rich visual stories that bring clarity to complex topics in finance, politics, economics, and global affairs. Their work is highly regarded for its clean design, meticulous data analysis, and engaging interactivity, making it a leading source for visual storytelling.
+
+#### Notable Examples:
+- **[Ukraine War Tracker](https://www.ft.com/content/17b56b2e-0ad7-44dc-9b56-045beae3d6f7)**: An interactive map and analysis tool providing ongoing updates about the conflict in Ukraine, including troop movements, territorial control, and humanitarian impacts.
+- **[COVID-19 Global Dashboard](https://ig.ft.com/coronavirus-chart/)**: A widely used resource during the pandemic that visualized cases, deaths, and vaccination rates with an emphasis on accessibility and real-time updates.
+- **[Global Inflation Tracker](https://www.ft.com/global-inflation-tracker)**: A regularly updated tool that visualizes inflation trends across different regions, highlighting the economic impact on various countries.
+
+The *Financial Times*’ data journalism is celebrated for combining precision with accessibility, offering readers both the depth of analysis and the visual tools needed to explore key global issues. Whether you're a data enthusiast or a casual reader, it’s an invaluable resource for understanding the world through data.
+
 
